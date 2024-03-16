@@ -40,8 +40,9 @@ The copper industry faces issues with manual predictions due to skewed and noisy
    - Enter values for each column except 'Selling_Price' for regression and 'Status' for classification.
    - Predict new data from Streamlit and display the output.
   
-LinkedIn Profile
-Link: www.linkedin.com/in/akashkumarl Visit the link to see the project video
+## LinkedIn Profile
+Link: www.linkedin.com/in/akashkumarl
+Visit the link to see the project video
 
 ## Project Structure
 
