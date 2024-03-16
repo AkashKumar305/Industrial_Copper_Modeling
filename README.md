@@ -39,6 +39,9 @@ The copper industry faces issues with manual predictions due to skewed and noisy
    - Create an interactive page with task input (Regression or Classification).
    - Enter values for each column except 'Selling_Price' for regression and 'Status' for classification.
    - Predict new data from Streamlit and display the output.
+  
+LinkedIn Profile
+Link: www.linkedin.com/in/akashkumarl Visit the link to see the project video
 
 ## Project Structure
 
